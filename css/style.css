@@ -1,0 +1,38 @@
+body {
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+    padding: 10%;
+
+    color: rgb(255, 255, 255);
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+.recipe-link {
+    font-size: 40px;
+    list-style: none;
+    text-align: center;
+}
+
+#header {
+    font-size: 100px;
+}
+
+ul,
+ol {
+    font-size: 30px;
+    list-style: none;
+    text-align: left;
+}
+
+h2 {
+    margin-top: 70px;
+}
